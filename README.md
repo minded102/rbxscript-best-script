@@ -4238,7 +4238,7 @@ Setting:Line()
 
 Setting:Button("premeum in discord!!!",function()
  
- setclipboard("discord.gg/5K38mQ9R")
+ setclipboard("discord.gg/hfseB7Jv")
  end)
 
 Setting:Seperator(" Setting ")
